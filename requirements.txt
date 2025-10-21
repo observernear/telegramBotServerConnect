@@ -1,0 +1,5 @@
+aiogram==3.17
+python-dotenv==1.0.0
+asyncssh==2.14.2
+asyncio
+python-dateutil==2.8.2
